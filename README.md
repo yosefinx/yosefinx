@@ -1,5 +1,4 @@
 # Hi 👋, I'm Yooshephine Iffy Chrishansen
-![banner](https://github.com/user-attachments/assets/bc07ac78-ae5c-45b5-b55a-14a1b8bfaa6a)
 
 ## 🐱 About Me
 
