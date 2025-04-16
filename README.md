@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yooshephine Iffy Chrishansen
 
-![Banner](pixel-jeff-witch.gif)
+![pixel-jeff-witch](https://github.com/user-attachments/assets/2af061c5-f3d4-4121-ba4c-43109705401b)
 
 ## 🐱 About Me
 
@@ -36,6 +36,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yosefinx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yooshephine-iffy-chrishansen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yosefinx@gmail.com)
 
-![Banner](nyan-cat2.gif)
+
+![nyan-cat2](https://github.com/user-attachments/assets/af460b1a-873c-4f96-ae60-50e6e5aa6b63)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
