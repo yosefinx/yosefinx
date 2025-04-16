@@ -6,7 +6,6 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="anime-girl.gif" alt="Deskripsi" width="200" style="border-radius: 10px;"/>
   <p style="font-size: 16px; line-height: 1.6; max-width: 600px;">
-    
     I’ve always been drawn to technology, especially after watching my dad code and build things. That sparked my interest in web development, where I found a love for bringing websites to life with smooth animations and clean design. I started by learning HTML and CSS, then moved on to PHP and Laravel to build full-featured, dynamic applications. Along the way, I also picked up UI/UX design using Figma, which helped me create user-friendly interfaces that are both functional and visually appealing.
   </p>
 </div>
