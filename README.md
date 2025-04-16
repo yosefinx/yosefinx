@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yooshephine Iffy Chrishansen
 
-![pixel-jeff-witch](https://github.com/user-attachments/assets/2af061c5-f3d4-4121-ba4c-43109705401b)
+![Image](https://github.com/user-attachments/assets/e346ee49-2999-442f-a4e8-c69fd3481434)
 
 ## 🐱 About Me
 
